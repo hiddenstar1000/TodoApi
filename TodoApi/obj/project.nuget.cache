@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9heKlHYYxvYBhLSxWSfEZmNWEdFWEMp7BRlQeaOnu282gH8NKmsxKblVSOwRKZtQ80VxYPJo/aQGzxfCNM2Cg==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\TodoApi\\TodoApi\\TodoApi\\TodoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dixon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
